@@ -1,0 +1,44 @@
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe.config
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.pdb
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.frmCircuitos.resources
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.Properties.Resources.resources
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.exe
+D:\UTN\ProgramacionI\2023\ExamenTUPPI24072023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.pdb
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe.config
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.pdb
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.frmCompetidores.resources
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.Properties.Resources.resources
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.GenerateResource.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.exe
+D:\UTN\ProgramacionI\2023\ExamenTUPPI07082023\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.pdb
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe.config
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.pdb
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.AssemblyReference.cache
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.frmCompetidores.resources
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.Properties.Resources.resources
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.GenerateResource.cache
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.exe
+C:\Users\AlumnoLocal\Downloads\405037-Toloza, Lautaro Tomas- 1K3\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.pdb
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe.config
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.exe
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\bin\Debug\TUP_PI_EF_F1.pdb
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.frmCompetidores.resources
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.Properties.Resources.resources
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.exe
+C:\Users\HP\Desktop\Proyecto Programación\Final\TUP_PI_EF_F1\obj\Debug\TUP_PI_EF_F1.pdb
